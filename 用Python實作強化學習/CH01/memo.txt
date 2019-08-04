@@ -1,0 +1,4 @@
+A brief introduction to reinforcement learning
+Kevin Murphy, 1998.
+
+https://www.cs.ubc.ca/~murphyk/Bayes/pomdp.html
